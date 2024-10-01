@@ -1,0 +1,6 @@
+@vinoteca_JairMirad_HostAddress = http://localhost:5293
+
+GET {{vinoteca_JairMirad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
